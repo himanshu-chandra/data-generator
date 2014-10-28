@@ -1,0 +1,3 @@
+This is linux based script for genertating data file containing some random data/record in millions in normal PC.Generally It takes more than hour if we need to generate data file of records more than 10 millions.But in order to check some major functionalities in RDBMS/NoSQL databases , we need some big data file as input.
+
+It will make use of parallel processing capacity of mordern machines for generating some huge data in much less time. 
